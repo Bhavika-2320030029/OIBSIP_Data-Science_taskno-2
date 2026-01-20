@@ -87,6 +87,3 @@ The analysis highlights the economic impact of COVID-19 and demonstrates how dat
 
 
 
-Review your GitHub profile like a mentor
-
-Just tell me 👍
