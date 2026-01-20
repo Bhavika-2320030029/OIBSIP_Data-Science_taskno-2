@@ -39,7 +39,7 @@ Employment Rate
 Labour Participation Rate
 
 
-⚙️ Methodology:
+ Methodology:
 
 Load and clean the dataset
 
@@ -52,7 +52,7 @@ Compare pre-COVID and COVID periods
 Interpret insights
 
 
-📈 Visualizations Used:
+ Visualizations Used:
 
 Line charts
 
@@ -70,7 +70,7 @@ Gradual recovery observed post-pandemic
 Regional variations in unemployment rates
 
 
-🛠️ Tools & Technologies:
+ Tools & Technologies:
 
 Python
 
